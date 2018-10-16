@@ -1,0 +1,4 @@
+# Object file
+*.o
+#Temean7 library info
+*.ali
